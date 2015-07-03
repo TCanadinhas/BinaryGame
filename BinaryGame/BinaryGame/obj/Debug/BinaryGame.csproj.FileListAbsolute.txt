@@ -1,0 +1,9 @@
+C:\Users\Talita\Documents\000 ESCOLA\Antoanne - Programação de Jogos I\BinaryGame - test\BinaryGame\BinaryGame\bin\Debug\BinaryGame.exe.config
+C:\Users\Talita\Documents\000 ESCOLA\Antoanne - Programação de Jogos I\BinaryGame - test\BinaryGame\BinaryGame\bin\Debug\BinaryGame.exe
+C:\Users\Talita\Documents\000 ESCOLA\Antoanne - Programação de Jogos I\BinaryGame - test\BinaryGame\BinaryGame\bin\Debug\BinaryGame.pdb
+C:\Users\Talita\Documents\000 ESCOLA\Antoanne - Programação de Jogos I\BinaryGame - test\BinaryGame\BinaryGame\obj\Debug\BinaryGame.csprojResolveAssemblyReference.cache
+C:\Users\Talita\Documents\000 ESCOLA\Antoanne - Programação de Jogos I\BinaryGame - test\BinaryGame\BinaryGame\obj\Debug\BinaryGame.Form1.resources
+C:\Users\Talita\Documents\000 ESCOLA\Antoanne - Programação de Jogos I\BinaryGame - test\BinaryGame\BinaryGame\obj\Debug\BinaryGame.Properties.Resources.resources
+C:\Users\Talita\Documents\000 ESCOLA\Antoanne - Programação de Jogos I\BinaryGame - test\BinaryGame\BinaryGame\obj\Debug\BinaryGame.csproj.GenerateResource.Cache
+C:\Users\Talita\Documents\000 ESCOLA\Antoanne - Programação de Jogos I\BinaryGame - test\BinaryGame\BinaryGame\obj\Debug\BinaryGame.exe
+C:\Users\Talita\Documents\000 ESCOLA\Antoanne - Programação de Jogos I\BinaryGame - test\BinaryGame\BinaryGame\obj\Debug\BinaryGame.pdb
