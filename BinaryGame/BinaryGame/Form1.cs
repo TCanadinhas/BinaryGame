@@ -112,7 +112,7 @@ namespace BinaryGame
             
             for (int i = 0; i < operations.Length; i++)
             {
-                i = random.Next(1, 5);
+                //i = random.Next(1, 5);
                 operationLabel.Text = operations[i];
             }
         }
